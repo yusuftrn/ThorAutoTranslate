@@ -20,7 +20,7 @@ This application installs alongside earlier `com.example.cameratranslator` build
 
 ## Install
 
-When a release is published, download the signed `thor-auto-translate-1.0.1-release.apk` from this repository’s Releases page and verify it against the accompanying `SHA256SUMS-1.0.1`. Source preparation alone does not publish an APK. Android 11 or later, ARM64, and two displays are required; hardware validation uses AYN Thor with Android 13.
+Download the signed [Thor Auto Translate 1.0.1 APK](https://github.com/yusuftrn/ThorAutoTranslate/releases/download/v1.0.1/thor-auto-translate-1.0.1-release.apk) from the [Releases page](https://github.com/yusuftrn/ThorAutoTranslate/releases/tag/v1.0.1) and verify it against the accompanying `SHA256SUMS-1.0.1`. See the [security review](SECURITY-REPORT.md) for the exact APK hash, signature checks, dependency scan and assessment limits. Android 11 or later, ARM64, and two displays are required; hardware validation uses AYN Thor with Android 13.
 
 1. Open the app. Setup moves to the lower screen.
 2. Choose the interface, game and translation languages.

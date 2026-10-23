@@ -1,0 +1,17 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=Thor Auto Translate
+Signer #1 certificate SHA-256 digest: 86a276451fc0ea80969b85aae09e1a5fcd1d9f50b479f01bc092ab862138b600
+Signer #1 certificate SHA-1 digest: 7f67d353498abf1411df875436b8b931e08e00bd
+Signer #1 certificate MD5 digest: 28d50932a2e08d5a4a1c440c0a7c3572
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 3072
+Signer #1 public key SHA-256 digest: afd634f832edf7efecb6c37455e36c8106fe3b99b103f62556dbc13a92f073ac
+Signer #1 public key SHA-1 digest: 64c40973aa79566614ab6eb815c5dde1147331b3
+Signer #1 public key MD5 digest: 15c2f42ba8e039a3062e83fca10a9850

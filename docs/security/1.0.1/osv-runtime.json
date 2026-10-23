@@ -1,0 +1,1241 @@
+{
+  "queries": [
+    {
+      "package": {
+        "name": "androidx.activity:activity",
+        "ecosystem": "Maven"
+      },
+      "version": "1.12.4"
+    },
+    {
+      "package": {
+        "name": "androidx.activity:activity-compose",
+        "ecosystem": "Maven"
+      },
+      "version": "1.12.4"
+    },
+    {
+      "package": {
+        "name": "androidx.activity:activity-ktx",
+        "ecosystem": "Maven"
+      },
+      "version": "1.12.4"
+    },
+    {
+      "package": {
+        "name": "androidx.annotation:annotation",
+        "ecosystem": "Maven"
+      },
+      "version": "1.9.1"
+    },
+    {
+      "package": {
+        "name": "androidx.annotation:annotation-experimental",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.1"
+    },
+    {
+      "package": {
+        "name": "androidx.annotation:annotation-jvm",
+        "ecosystem": "Maven"
+      },
+      "version": "1.9.1"
+    },
+    {
+      "package": {
+        "name": "androidx.appcompat:appcompat",
+        "ecosystem": "Maven"
+      },
+      "version": "1.6.1"
+    },
+    {
+      "package": {
+        "name": "androidx.appcompat:appcompat-resources",
+        "ecosystem": "Maven"
+      },
+      "version": "1.6.1"
+    },
+    {
+      "package": {
+        "name": "androidx.arch.core:core-common",
+        "ecosystem": "Maven"
+      },
+      "version": "2.2.0"
+    },
+    {
+      "package": {
+        "name": "androidx.arch.core:core-runtime",
+        "ecosystem": "Maven"
+      },
+      "version": "2.2.0"
+    },
+    {
+      "package": {
+        "name": "androidx.autofill:autofill",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.collection:collection",
+        "ecosystem": "Maven"
+      },
+      "version": "1.5.0"
+    },
+    {
+      "package": {
+        "name": "androidx.collection:collection-jvm",
+        "ecosystem": "Maven"
+      },
+      "version": "1.5.0"
+    },
+    {
+      "package": {
+        "name": "androidx.collection:collection-ktx",
+        "ecosystem": "Maven"
+      },
+      "version": "1.5.0"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.animation:animation",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.animation:animation-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.animation:animation-core",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.animation:animation-core-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.foundation:foundation",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.foundation:foundation-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.foundation:foundation-layout",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.foundation:foundation-layout-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.material3:material3",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.material3:material3-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.material:material-ripple",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.material:material-ripple-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime-annotation",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime-annotation-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime-retain",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime-retain-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime-saveable",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.runtime:runtime-saveable-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-geometry",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-geometry-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-graphics",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-graphics-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-text",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-text-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-tooling-preview",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-tooling-preview-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-unit",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-unit-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-util",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose.ui:ui-util-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.4"
+    },
+    {
+      "package": {
+        "name": "androidx.compose:compose-bom",
+        "ecosystem": "Maven"
+      },
+      "version": "2026.02.01"
+    },
+    {
+      "package": {
+        "name": "androidx.concurrent:concurrent-futures",
+        "ecosystem": "Maven"
+      },
+      "version": "1.1.0"
+    },
+    {
+      "package": {
+        "name": "androidx.core:core",
+        "ecosystem": "Maven"
+      },
+      "version": "1.18.0"
+    },
+    {
+      "package": {
+        "name": "androidx.core:core-ktx",
+        "ecosystem": "Maven"
+      },
+      "version": "1.18.0"
+    },
+    {
+      "package": {
+        "name": "androidx.core:core-viewtree",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.cursoradapter:cursoradapter",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.customview:customview",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.customview:customview-poolingcontainer",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.documentfile:documentfile",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.drawerlayout:drawerlayout",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.dynamicanimation:dynamicanimation",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.emoji2:emoji2",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.emoji2:emoji2-views-helper",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.exifinterface:exifinterface",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.fragment:fragment",
+        "ecosystem": "Maven"
+      },
+      "version": "1.3.6"
+    },
+    {
+      "package": {
+        "name": "androidx.graphics:graphics-path",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.1"
+    },
+    {
+      "package": {
+        "name": "androidx.interpolator:interpolator",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.legacy:legacy-support-core-utils",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-common",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-common-java8",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-common-jvm",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-livedata",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-livedata-core",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-livedata-core-ktx",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-process",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-runtime",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-runtime-android",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-runtime-compose",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-runtime-compose-android",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-runtime-ktx",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-runtime-ktx-android",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-viewmodel",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-viewmodel-android",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-viewmodel-ktx",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-viewmodel-savedstate",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.lifecycle:lifecycle-viewmodel-savedstate-android",
+        "ecosystem": "Maven"
+      },
+      "version": "2.10.0"
+    },
+    {
+      "package": {
+        "name": "androidx.loader:loader",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.localbroadcastmanager:localbroadcastmanager",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.navigationevent:navigationevent",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.2"
+    },
+    {
+      "package": {
+        "name": "androidx.navigationevent:navigationevent-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.2"
+    },
+    {
+      "package": {
+        "name": "androidx.navigationevent:navigationevent-compose",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.2"
+    },
+    {
+      "package": {
+        "name": "androidx.navigationevent:navigationevent-compose-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.2"
+    },
+    {
+      "package": {
+        "name": "androidx.print:print",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.profileinstaller:profileinstaller",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.resourceinspection:resourceinspection-annotation",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.1"
+    },
+    {
+      "package": {
+        "name": "androidx.savedstate:savedstate",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.savedstate:savedstate-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.savedstate:savedstate-compose",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.savedstate:savedstate-compose-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.savedstate:savedstate-ktx",
+        "ecosystem": "Maven"
+      },
+      "version": "1.4.0"
+    },
+    {
+      "package": {
+        "name": "androidx.startup:startup-runtime",
+        "ecosystem": "Maven"
+      },
+      "version": "1.1.1"
+    },
+    {
+      "package": {
+        "name": "androidx.tracing:tracing",
+        "ecosystem": "Maven"
+      },
+      "version": "1.2.0"
+    },
+    {
+      "package": {
+        "name": "androidx.transition:transition",
+        "ecosystem": "Maven"
+      },
+      "version": "1.6.0"
+    },
+    {
+      "package": {
+        "name": "androidx.vectordrawable:vectordrawable",
+        "ecosystem": "Maven"
+      },
+      "version": "1.1.0"
+    },
+    {
+      "package": {
+        "name": "androidx.vectordrawable:vectordrawable-animated",
+        "ecosystem": "Maven"
+      },
+      "version": "1.1.0"
+    },
+    {
+      "package": {
+        "name": "androidx.versionedparcelable:versionedparcelable",
+        "ecosystem": "Maven"
+      },
+      "version": "1.1.1"
+    },
+    {
+      "package": {
+        "name": "androidx.viewpager:viewpager",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "package": {
+        "name": "androidx.window:window",
+        "ecosystem": "Maven"
+      },
+      "version": "1.5.0"
+    },
+    {
+      "package": {
+        "name": "androidx.window:window-core",
+        "ecosystem": "Maven"
+      },
+      "version": "1.5.0"
+    },
+    {
+      "package": {
+        "name": "androidx.window:window-core-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.5.0"
+    },
+    {
+      "package": {
+        "name": "com.google.android.datatransport:transport-api",
+        "ecosystem": "Maven"
+      },
+      "version": "2.2.1"
+    },
+    {
+      "package": {
+        "name": "com.google.android.datatransport:transport-backend-cct",
+        "ecosystem": "Maven"
+      },
+      "version": "2.3.3"
+    },
+    {
+      "package": {
+        "name": "com.google.android.datatransport:transport-runtime",
+        "ecosystem": "Maven"
+      },
+      "version": "2.2.6"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-base",
+        "ecosystem": "Maven"
+      },
+      "version": "18.5.0"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-basement",
+        "ecosystem": "Maven"
+      },
+      "version": "18.4.0"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-mlkit-text-recognition",
+        "ecosystem": "Maven"
+      },
+      "version": "19.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-mlkit-text-recognition-chinese",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-mlkit-text-recognition-common",
+        "ecosystem": "Maven"
+      },
+      "version": "19.1.0"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-mlkit-text-recognition-devanagari",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-mlkit-text-recognition-japanese",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-mlkit-text-recognition-korean",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.android.gms:play-services-tasks",
+        "ecosystem": "Maven"
+      },
+      "version": "18.2.0"
+    },
+    {
+      "package": {
+        "name": "com.google.android.odml:image",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0-beta1"
+    },
+    {
+      "package": {
+        "name": "com.google.firebase:firebase-annotations",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.0"
+    },
+    {
+      "package": {
+        "name": "com.google.firebase:firebase-components",
+        "ecosystem": "Maven"
+      },
+      "version": "16.1.0"
+    },
+    {
+      "package": {
+        "name": "com.google.firebase:firebase-encoders",
+        "ecosystem": "Maven"
+      },
+      "version": "16.1.0"
+    },
+    {
+      "package": {
+        "name": "com.google.firebase:firebase-encoders-json",
+        "ecosystem": "Maven"
+      },
+      "version": "17.1.0"
+    },
+    {
+      "package": {
+        "name": "com.google.guava:listenablefuture",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:common",
+        "ecosystem": "Maven"
+      },
+      "version": "18.11.0"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:text-recognition",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:text-recognition-bundled-common",
+        "ecosystem": "Maven"
+      },
+      "version": "17.0.0"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:text-recognition-chinese",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:text-recognition-devanagari",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:text-recognition-japanese",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:text-recognition-korean",
+        "ecosystem": "Maven"
+      },
+      "version": "16.0.1"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:translate",
+        "ecosystem": "Maven"
+      },
+      "version": "17.0.3"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:vision-common",
+        "ecosystem": "Maven"
+      },
+      "version": "17.3.0"
+    },
+    {
+      "package": {
+        "name": "com.google.mlkit:vision-interfaces",
+        "ecosystem": "Maven"
+      },
+      "version": "16.3.0"
+    },
+    {
+      "package": {
+        "name": "com.squareup.okhttp3:okhttp",
+        "ecosystem": "Maven"
+      },
+      "version": "4.12.0"
+    },
+    {
+      "package": {
+        "name": "com.squareup.okio:okio",
+        "ecosystem": "Maven"
+      },
+      "version": "3.6.0"
+    },
+    {
+      "package": {
+        "name": "com.squareup.okio:okio-jvm",
+        "ecosystem": "Maven"
+      },
+      "version": "3.6.0"
+    },
+    {
+      "package": {
+        "name": "javax.inject:javax.inject",
+        "ecosystem": "Maven"
+      },
+      "version": "1"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlin:kotlin-stdlib",
+        "ecosystem": "Maven"
+      },
+      "version": "2.3.20"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlin:kotlin-stdlib-common",
+        "ecosystem": "Maven"
+      },
+      "version": "2.3.20"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk7",
+        "ecosystem": "Maven"
+      },
+      "version": "1.9.10"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlin:kotlin-stdlib-jdk8",
+        "ecosystem": "Maven"
+      },
+      "version": "1.9.10"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-coroutines-android",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.1"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-coroutines-bom",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.1"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-coroutines-core",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.1"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.1"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-coroutines-play-services",
+        "ecosystem": "Maven"
+      },
+      "version": "1.10.1"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-serialization-bom",
+        "ecosystem": "Maven"
+      },
+      "version": "1.7.3"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-serialization-core",
+        "ecosystem": "Maven"
+      },
+      "version": "1.7.3"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains.kotlinx:kotlinx-serialization-core-jvm",
+        "ecosystem": "Maven"
+      },
+      "version": "1.7.3"
+    },
+    {
+      "package": {
+        "name": "org.jetbrains:annotations",
+        "ecosystem": "Maven"
+      },
+      "version": "23.0.0"
+    },
+    {
+      "package": {
+        "name": "org.jspecify:jspecify",
+        "ecosystem": "Maven"
+      },
+      "version": "1.0.0"
+    }
+  ],
+  "results": {
+    "results": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "findings": []
+}

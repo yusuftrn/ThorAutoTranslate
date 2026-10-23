@@ -1,0 +1,11 @@
+{
+  "source": "VirusTotal public UI",
+  "sha256": "d0f3035059b53ffa13d44802ece897a28dc377665e054f955e101c1e52048148",
+  "filename": "thor-auto-translate-1.0.1-release.apk",
+  "url": "https://www.virustotal.com/gui/file/d0f3035059b53ffa13d44802ece897a28dc377665e054f955e101c1e52048148",
+  "observedAnalysisTime": "2026-10-23T20:27:58+02:00",
+  "displayedDetectionRatio": "0/67",
+  "displayedSummary": "No security vendors flagged this file as malicious",
+  "kaspersky": "Undetected",
+  "note": "Transcribed from the completed public UI, not a VirusTotal API export. Results can change."
+}
