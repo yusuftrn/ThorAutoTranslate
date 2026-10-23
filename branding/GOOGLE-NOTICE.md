@@ -1,0 +1,1 @@
+Google Translate attribution artwork is provided by Google and remains subject to Google’s brand requirements, not the project MIT license. Original unmodified white regular badge: https://docs.cloud.google.com/static/translate/images/google-translate-attribution.zip . Usage: https://docs.cloud.google.com/translate/attribution .

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="sharedpref" path="app_settings.xml" /><exclude domain="sharedpref" path="game_library.xml" /><exclude domain="database" path="." /><exclude domain="external" path="models/" /><exclude domain="sharedpref" path="model_downloads.xml" />
+</full-backup-content>

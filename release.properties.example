@@ -1,0 +1,5 @@
+# Copy privately to signing/release.properties. Never commit the real file or keystore.
+storeFile=signing/thor-release.keystore
+storePassword=REPLACE_WITH_YOUR_STORE_PASSWORD
+keyAlias=thor-auto-translate
+keyPassword=REPLACE_WITH_YOUR_KEY_PASSWORD

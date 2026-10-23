@@ -1,0 +1,33 @@
+# Local IDE and build state
+.gradle/
+.kotlin/
+.idea/
+*.iml
+build/
+.cxx/
+.externalNativeBuild/
+captures/
+local.properties
+.DS_Store
+
+# Private signing configuration and credentials
+signing/
+release.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+
+# Release binaries, downloaded models and local verification artifacts
+artifacts/
+app/release/
+*.apk
+*.aab
+*.gguf
+*.part
+
+# Private real-game OCR calibration image; not part of the MIT source distribution.
+/app/src/androidTest/assets/game-tutorial.png

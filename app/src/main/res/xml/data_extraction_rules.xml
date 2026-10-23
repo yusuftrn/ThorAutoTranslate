@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup><exclude domain="sharedpref" path="app_settings.xml" /><exclude domain="sharedpref" path="game_library.xml" /><exclude domain="database" path="." /><exclude domain="external" path="models/" /><exclude domain="sharedpref" path="model_downloads.xml" /></cloud-backup>
+    <device-transfer><exclude domain="sharedpref" path="app_settings.xml" /><exclude domain="sharedpref" path="game_library.xml" /><exclude domain="database" path="." /><exclude domain="external" path="models/" /><exclude domain="sharedpref" path="model_downloads.xml" /></device-transfer>
+</data-extraction-rules>
